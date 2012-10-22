@@ -6,5 +6,5 @@ setup(name='Google Play REST API',
       author='Jishnu Mohan',
       author_email='jishnu7@gmail.com',
       url='https://github.com/jishnu7/Google-Play-REST-API',
-      install_requires=['Flask', 'beautifulsoup4'],
+      install_requires=['Flask', 'beautifulsoup4', 'urllib2'],
      )
