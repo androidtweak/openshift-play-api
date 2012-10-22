@@ -1,10 +1,10 @@
 from setuptools import setup
 
-setup(name='YourAppName',
-      version='1.0',
-      description='OpenShift App',
-      author='Your Name',
-      author_email='example@example.com',
-      url='http://www.python.org/sigs/distutils-sig/',
-#      install_requires=['Django>=1.3'],
+setup(name='Google Play REST API',
+      version='0.1',
+      description='Unofficial Google Play REST API',
+      author='Jishnu Mohan',
+      author_email='jishnu7@gmail.com',
+      url='https://github.com/jishnu7/Google-Play-REST-API',
+      install_requires=['Flask', 'beautifulsoup4'],
      )
