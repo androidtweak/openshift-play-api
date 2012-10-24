@@ -1,0 +1,3 @@
+[submodule "wsgi/playapi"]
+	path = wsgi/playapi
+	url = git://github.com/jishnu7/Google-Play-REST-API.git
